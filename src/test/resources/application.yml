@@ -23,6 +23,6 @@ verdenote:
   cookies:
     secure: false
   cors:
-    allowed-origins: http://localhost:3000
+    allowed-origins: http://localhost:13000
   realtime:
     service-secret: dev-realtime-secret-change-me

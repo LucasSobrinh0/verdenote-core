@@ -33,7 +33,7 @@ server:
 
 verdenote:
   cors:
-    allowed-origins: ${VERDENOTE_CORS_ALLOWED_ORIGINS:http://localhost:3000}
+    allowed-origins: ${VERDENOTE_CORS_ALLOWED_ORIGINS:http://localhost:13000}
   cookies:
     secure: ${VERDENOTE_COOKIE_SECURE:true}
   remember-me:

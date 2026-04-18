@@ -30,7 +30,7 @@ services:
       DB_PASSWORD: verdenote_dev_password
       VERDENOTE_REMEMBER_ME_KEY: dev-remember-me-key-change-before-production
       VERDENOTE_REALTIME_SERVICE_SECRET: dev-realtime-service-secret-change-before-production
-      VERDENOTE_CORS_ALLOWED_ORIGINS: http://localhost:3000
+      VERDENOTE_CORS_ALLOWED_ORIGINS: http://localhost:13000
       VERDENOTE_COOKIE_SECURE: "false"
       DEBUG: "false"
     ports:
